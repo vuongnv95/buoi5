@@ -19,8 +19,6 @@
             </intent-filter>
         </activity>
 
-        <service android:name="com.example.demo_buoi_5.service.bind_service.ExampleBindService" />
-        <service android:name="com.example.demo_buoi_5.service.start_service.ExampleStartService" />
     </application>
 
 </manifest>
